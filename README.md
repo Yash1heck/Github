@@ -1,6 +1,6 @@
 # Github 
 # I AM GITHUB RESPORATORY
-<h2>I AM GITHUB SMALLER</h2> 
+<h2><span>I AM GITHUB SMALLER</span></h2> 
 
 
 <strong>I am bold</strong>
